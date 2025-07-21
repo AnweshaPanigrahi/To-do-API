@@ -11,7 +11,7 @@ A simple and efficient To-Do List application that allows users to create, updat
 - Responsive UI for desktop and mobile
 - Persistent storage using MongoDB
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend:
 - React.js
